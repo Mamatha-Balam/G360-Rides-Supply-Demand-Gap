@@ -64,11 +64,11 @@ Key patterns observed include:
 
 ### Trip Status Distribution
 
-<img src=".visuals/trip_status_distribution.png" alt="Trip Status Distribution" width="700">
+<img src="https://raw.githubusercontent.com/Mamatha-Balam/G360-Rides-Supply-Demand-Gap/main/visuals/trip_status_distribution.png" alt="Trip Status Distribution" width="700">
 
 ### Trip Distribution by Pickup Point
 
-<img src=".visuals/trip_distribution_by_pickup_point.png" alt="Trip Distribution by Pickup Point" width="700">
+<img src="https://raw.githubusercontent.com/Mamatha-Balam/G360-Rides-Supply-Demand-Gap/main/visuals/trip_distribution_by_pickup_point.png" alt="Trip Distribution by Pickup Point" width="700">
 
 ## Business Recommendations
 
