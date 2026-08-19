@@ -10,6 +10,16 @@ The analysis focuses on identifying patterns in demand and supply, understanding
 
 The project uses Python and Excel to perform data preparation, exploratory data analysis, statistical analysis, and data visualization.
 
+## Project Highlights
+
+- Analyzed 6,744 ride requests across different trip outcomes.
+- Identified 2,830 completed trips.
+- Identified 2,650 requests where cars were unavailable.
+- Identified 1,264 cancelled requests.
+- Compared operational patterns across City and Airport pickup points.
+- Analyzed time-based demand and supply pressure.
+- Converted analytical findings into business recommendations.
+
 ## Key Objectives
 
 - Analyze ride-request patterns across pickup points and time periods.
