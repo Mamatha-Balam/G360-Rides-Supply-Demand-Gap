@@ -66,6 +66,10 @@ Key patterns observed include:
 
 ![Trip Status Distribution](trip_status_distribution.png)
 
+### Trip Distribution by Pickup Point
+
+![Trip Distribution by Pickup Point](trip_distribution_by_pickup_point.png)
+
 ## Business Recommendations
 
 Based on the analysis, the following actions can help address the identified supply-demand imbalance:
