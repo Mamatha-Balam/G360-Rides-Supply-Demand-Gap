@@ -62,6 +62,10 @@ Key patterns observed include:
 - Morning demand pressure at the City pickup point.
 - Evening supply pressure at the Airport pickup point.
 
+### Trip Status Distribution
+
+![Trip Status Distribution](trip_status_distribution.png)
+
 ## Business Recommendations
 
 Based on the analysis, the following actions can help address the identified supply-demand imbalance:
